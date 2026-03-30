@@ -51,12 +51,27 @@ Um avanço é o uso de múltiplas listas com funções diferentes. Que separa um
 ---
 
 ## 🖥 Print das telas do Design
+<img width="1365" height="629" alt="Captura de tela 2026-03-29 173412" src="https://github.com/user-attachments/assets/a5b80f9e-adb4-428b-a5f4-780ad2f8b4f8" />
+<img width="1362" height="629" alt="Captura de tela 2026-03-29 173304" src="https://github.com/user-attachments/assets/ca5d14e5-ea37-4ee6-8e0b-208ce9625117" />
+
 
 
 ---
 
 ## 🧩 Print das telas dos Blocos
+<img width="1359" height="602" alt="Captura de tela 2026-03-29 170623" src="https://github.com/user-attachments/assets/6b69e5dd-350c-40f7-9fc3-d2dd8fe048d2" />
+<img width="1102" height="516" alt="Captura de tela 2026-03-29 170525" src="https://github.com/user-attachments/assets/27483b09-2a0a-42b8-bee1-b3dbe5958d16" />
+<img width="971" height="507" alt="Captura de tela 2026-03-29 170455" src="https://github.com/user-attachments/assets/cdd62bfa-4541-4a1c-8869-29507fb00244" />
+<img width="952" height="501" alt="Captura de tela 2026-03-29 170431" src="https://github.com/user-attachments/assets/2f639c19-d63e-4436-959d-aae9a4dce4cf" />
+<img width="1036" height="501" alt="Captura de tela 2026-03-29 170414" src="https://github.com/user-attachments/assets/3790e7d7-00df-49d7-82ab-eb2648544798" />
+<img width="897" height="447" alt="Captura de tela 2026-03-29 170345" src="https://github.com/user-attachments/assets/bab6900a-74b3-4f2f-9d55-9523af0029c8" />
+<img width="1141" height="495" alt="Captura de tela 2026-03-29 153748" src="https://github.com/user-attachments/assets/979ef883-16bf-45ff-896c-11502a881370" />
+<img width="1354" height="603" alt="Captura de tela 2026-03-29 152249" src="https://github.com/user-attachments/assets/f6dd85a5-a4be-4b6e-90c5-21fbb82c0125" />
 
-Inserir imagens da **programação em blocos** do aplicativo.
+
+
+
+
+
 
 ---
