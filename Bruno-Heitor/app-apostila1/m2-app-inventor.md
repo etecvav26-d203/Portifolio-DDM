@@ -1,11 +1,12 @@
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
-### Descrição
-Descrever:
+### Objetivos, funções e mudanças
 
-- objetivo do aplicativo
-- como ele funciona
-- o que foi **modificado ou melhorado** em relação ao exemplo da apostila
+O objetivo do app é mostrar uma simples curiosidade por meio do um botão
+
+Ao clicar no botão "clique aqui" ele revela as curiosidades, e ao clicar no botão "limpar" ele tira as legendas para ser clicado novamente
+
+Em relação ao exemplo, este app possui mais legendas e cores diferentes
 
 ### Print das telas do Design
 <img width="1365" height="635" alt="app1-Frente" src="https://github.com/user-attachments/assets/62d6fc99-a1f7-4230-a43f-16396d076348" />
@@ -18,12 +19,14 @@ Descrever:
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
-### Descrição
-Descrever:
+### Objetivos, funções e mudanças
 
-- objetivo do aplicativo
-- funcionamento
-- alterações feitas em relação à apostila
+O objetivo é alterar as cores do fundo, sem mudar a imagem de cima, e apagar estas cores de fundo para testar novamente
+
+Ele altera a cor do fundo ao clicar em cada botão com sua respectivas cores, e volta as opções de cores antes escolhidas
+
+Em relação ao exemplo este app possui mais opções para voltar para as cores antigas, e foi alterado a ordem dos botões
+
 
 ### Print das telas do Design
 <img width="1365" height="579" alt="app2-Frente" src="https://github.com/user-attachments/assets/53f35333-75fd-4342-8464-86df7324d015" />
@@ -36,8 +39,14 @@ Descrever:
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### Objetivos, funções e mudanças
+
+O objetivo desse app é gerar um som, em complemento com a imagem na tela por meio de um botão
+
+A imagem é clicável e ao clicar na imagem o app faz o som do aparelho 
+
+Em relação ao exemplo a imagem desse app é diferente, e o som foi gravado pelas autores
+
 
 ### Print das telas do Design
 <img width="1354" height="642" alt="app3frente" src="https://github.com/user-attachments/assets/5e29007e-1c9d-4e50-8a78-14c8f74baa8a" />
