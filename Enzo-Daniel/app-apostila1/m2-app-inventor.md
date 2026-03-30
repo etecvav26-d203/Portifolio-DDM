@@ -3,9 +3,12 @@
 ### Descrição
 Descrever:
 
-- objetivo do aplicativo
-- como ele funciona
-- o que foi **modificado ou melhorado** em relação ao exemplo da apostila
+O objetivo do aplicativo é apresentar uma curiosidade simples por meio de um botão.
+
+Ao pressionar o botão “clique aqui”, uma curiosidade é exibida na tela. Já ao apertar o botão “limpar”, o conteúdo mostrado desaparece, permitindo que o processo seja repetido.
+
+Comparado ao exemplo, este aplicativo se destaca por ter uma maior quantidade de textos exibidos e utilizar uma variedade maior de cores.
+
 
 ### Print das telas do Design
 Inserir imagens do **Design do aplicativo**.
