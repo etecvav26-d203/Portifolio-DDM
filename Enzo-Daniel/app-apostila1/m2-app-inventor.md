@@ -10,10 +10,12 @@ Comparado ao exemplo, este aplicativo se destaca por ter uma maior quantidade de
 
 
 ### Print das telas do Design
-Inserir imagens do **Design do aplicativo**.
+<img width="1365" height="594" alt="Captura de tela 2026-03-30 000608" src="https://github.com/user-attachments/assets/a9726c85-12fd-45b2-9eed-10e457f6b06a" />
+
 
 ### Print das telas dos Blocos
-Inserir imagens dos **blocos de programação**.
+<img width="1363" height="624" alt="Captura de tela 2026-03-30 000623" src="https://github.com/user-attachments/assets/c99ecf43-e25e-4513-98d8-839229b74be5" />
+
 
 ---
 
