@@ -59,8 +59,13 @@ Em relação ao exemplo a imagem desse app é diferente, e o som foi gravado pel
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas
+
+O objetivo é utilizar a câmera do seu celular ao apertar um botão, e fazer com que a foto apareça na tela
+
+Ao clicar no botão "tirar foto" ele acessa sua camera para que sua foto apareça na tela, e fecha o app ao clicar no botão "fechar"
+
+Em relação ao exemplo, esse app possui a imagem maior para mostrar a foto
 
 ### Print das telas do Design
 <img width="1365" height="635" alt="app4frente" src="https://github.com/user-attachments/assets/265f52e0-900d-48c0-8890-088cbaa5e1e4" />
