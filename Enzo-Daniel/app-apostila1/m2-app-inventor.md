@@ -1,7 +1,6 @@
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
-### Descrição
-Descrever:
+### objetivo, funcionamento e modificações realizadas.
 
 O objetivo do aplicativo é apresentar uma curiosidade simples por meio de um botão.
 
@@ -20,12 +19,14 @@ Inserir imagens dos **blocos de programação**.
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
-### Descrição
-Descrever:
+### objetivo, funcionamento e modificações realizadas.
 
-- objetivo do aplicativo
-- funcionamento
-- alterações feitas em relação à apostila
+O objetivo do aplicativo é modificar as cores do fundo sem alterar a imagem principal, além de permitir remover essas cores para realizar novos testes.
+
+Ao clicar em cada botão, o fundo muda conforme a cor correspondente. Também é possível restaurar as cores que estavam definidas anteriormente.
+
+Em comparação ao exemplo, este aplicativo oferece mais alternativas para retornar às cores anteriores, além de apresentar uma organização diferente na disposição dos botões.
+
 
 ### Print das telas do Design
 
@@ -35,8 +36,14 @@ Descrever:
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas.
+
+O objetivo deste aplicativo é reproduzir um áudio que complementa a imagem exibida na tela, por meio de uma interação do usuário.
+
+A própria imagem funciona como um botão: ao ser tocada, o aplicativo emite o som correspondente ao objeto mostrado.
+
+Em comparação ao exemplo, a figura utilizada é diferente e o áudio foi produzido pelos próprios desenvolvedores do app.
+
 
 ### Print das telas do Design
 
@@ -46,8 +53,14 @@ Descrever objetivo, funcionamento e modificações realizadas.
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas.
+
+O objetivo do aplicativo é ativar a câmera do celular ao pressionar um botão, permitindo que a foto capturada seja exibida na tela.
+
+Ao selecionar o botão “tirar foto”, a câmera é aberta para registrar a imagem, que aparece no próprio app. Já ao clicar em “fechar”, o aplicativo é encerrado.
+
+Em comparação ao exemplo, este app se diferencia por apresentar a imagem capturada em um tamanho maior na tela.
+
 
 ### Print das telas do Design
 
@@ -57,8 +70,14 @@ Descrever objetivo, funcionamento e modificações realizadas.
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas.
+
+O objetivo deste aplicativo é permitir que o usuário navegue entre diferentes telas várias vezes.
+
+Na tela inicial, ao pressionar o botão “tela 1”, o usuário é levado para a primeira tela, onde pode optar por avançar para a próxima ou retornar. Já na segunda tela, há opções para voltar à tela inicial ou ir para a tela 1.
+
+Em comparação ao exemplo, este app apresenta mudanças nas cores de fundo e nas imagens utilizadas.
+
 
 ### Print das telas do Design
 
@@ -68,8 +87,14 @@ Descrever objetivo, funcionamento e modificações realizadas.
 
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas.
+
+O objetivo deste aplicativo é exibir uma mensagem personalizada com base no nome digitado pelo usuário.
+
+Ao inserir o nome no campo de texto, o app identifica o que foi escrito e o inclui automaticamente na mensagem exibida. Para encerrar, basta clicar no botão “fechar”.
+
+Em comparação ao exemplo, este aplicativo conta com uma imagem e também um botão na parte inferior para confirmar a ação realizada.
+
 
 ### Print das telas do Design
 
