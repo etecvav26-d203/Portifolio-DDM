@@ -30,7 +30,7 @@ Forca EtecVav
 
 ## Descrição
 
-- objetivo do aplicativo
+
 O objetivo do applicativo autoral é divertir o usuário com um jogo tipo "forca" personalizado com alguns cursos da EtecVav, o usuário prescisa acertar a palvra dentre as opções das  regras, mas sem ultrapassar a quantidade limite de erros, ao ganhar ou perder tocará uma música tema.
 
 o sistema seleciona uma palavra aleatória de uma lista previamente definida. Essa palavra é armazenada internamente como a “palavra correta”, que o jogador precisa descobrir. Para evitar repetição, essa palavra é removida da lista original, garantindo que cada rodada seja diferente até que todas as palavras acabem.
