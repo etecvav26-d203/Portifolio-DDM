@@ -102,8 +102,14 @@ Em relação ao exemplo as cores de fundo e as imagens foram alteradas
 
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas.
+
+O objetivo desse app é mostrar uma mensagem que se altera de acordo com o nome colocado na caixa de letras
+
+Ao digitar o seu nome na caixa, o app le e coloca o que foi digitado na mensagem para o usuário, e para sair do app clique em "fechar"
+
+Em relação ao exemplo esse app possiu imagem e botão em baixo para comfirmar o acerto
+
 
 ### Print das telas do Design
 <img width="1365" height="615" alt="app6frente" src="https://github.com/user-attachments/assets/a44b374a-30bd-4057-9f78-54a182d2a7a4" />
