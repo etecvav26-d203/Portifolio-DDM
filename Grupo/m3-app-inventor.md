@@ -65,9 +65,6 @@ Um avanço é o uso de múltiplas listas com funções diferentes. Que separa um
 <img width="952" height="501" alt="Captura de tela 2026-03-29 170431" src="https://github.com/user-attachments/assets/2f639c19-d63e-4436-959d-aae9a4dce4cf" />
 <img width="1036" height="501" alt="Captura de tela 2026-03-29 170414" src="https://github.com/user-attachments/assets/3790e7d7-00df-49d7-82ab-eb2648544798" />
 <img width="897" height="447" alt="Captura de tela 2026-03-29 170345" src="https://github.com/user-attachments/assets/bab6900a-74b3-4f2f-9d55-9523af0029c8" />
-<img width="1141" height="495" alt="Captura de tela 2026-03-29 153748" src="https://github.com/user-attachments/assets/979ef883-16bf-45ff-896c-11502a881370" />
-<img width="1354" height="603" alt="Captura de tela 2026-03-29 152249" src="https://github.com/user-attachments/assets/f6dd85a5-a4be-4b6e-90c5-21fbb82c0125" />
-
 
 
 
