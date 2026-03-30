@@ -31,8 +31,10 @@ Em comparação ao exemplo, este aplicativo oferece mais alternativas para retor
 
 
 ### Print das telas do Design
+<img width="1364" height="623" alt="Captura de tela 2026-03-30 000917" src="https://github.com/user-attachments/assets/7e897703-c258-402a-a409-140fb01914a9" />
 
 ### Print das telas dos Blocos
+<img width="1365" height="622" alt="Captura de tela 2026-03-30 000929" src="https://github.com/user-attachments/assets/26303cf0-c75b-45de-b0a7-c327fd2aceec" />
 
 ---
 
@@ -48,8 +50,11 @@ Em comparação ao exemplo, a figura utilizada é diferente e o áudio foi produ
 
 
 ### Print das telas do Design
+<img width="1365" height="630" alt="Captura de tela 2026-03-30 001019" src="https://github.com/user-attachments/assets/3589c28c-f2d7-4d4b-afb6-9f00dd3a87e8" />
 
 ### Print das telas dos Blocos
+<img width="1365" height="627" alt="Captura de tela 2026-03-30 001030" src="https://github.com/user-attachments/assets/be1c6b2a-860f-4ca9-a2d5-b495bfa6c566" />
+
 
 ---
 
@@ -65,8 +70,12 @@ Em comparação ao exemplo, este app se diferencia por apresentar a imagem captu
 
 
 ### Print das telas do Design
+<img width="1365" height="626" alt="Captura de tela 2026-03-30 001111" src="https://github.com/user-attachments/assets/96e3e377-6c09-4d77-a022-d2063200ade2" />
+
 
 ### Print das telas dos Blocos
+<img width="1365" height="639" alt="Captura de tela 2026-03-30 001119" src="https://github.com/user-attachments/assets/d1d4e44a-6358-4682-8c00-bf76d19eb3df" />
+
 
 ---
 
@@ -82,8 +91,14 @@ Em comparação ao exemplo, este app apresenta mudanças nas cores de fundo e na
 
 
 ### Print das telas do Design
+<img width="1359" height="624" alt="Captura de tela 2026-03-30 001411" src="https://github.com/user-attachments/assets/8150821d-80b4-43bc-9ff4-ae7b1bde3b15" />
+<img width="1365" height="634" alt="Captura de tela 2026-03-30 001421" src="https://github.com/user-attachments/assets/9844307a-4a65-4870-a4cb-db016cc06edd" />
+<img width="1365" height="628" alt="Captura de tela 2026-03-30 001430" src="https://github.com/user-attachments/assets/09827850-d4de-43e5-8abe-4c220d284062" />
 
 ### Print das telas dos Blocos
+<img width="1365" height="618" alt="Captura de tela 2026-03-30 001439" src="https://github.com/user-attachments/assets/aa8a092c-e272-4c1c-abfc-df7af53917e8" />
+
+
 
 ---
 
@@ -99,7 +114,9 @@ Em comparação ao exemplo, este aplicativo conta com uma imagem e também um bo
 
 
 ### Print das telas do Design
+<img width="1358" height="642" alt="Captura de tela 2026-03-30 001158" src="https://github.com/user-attachments/assets/ee1b4dc9-11ea-41d4-9fde-99f32061e20c" />
 
 ### Print das telas dos Blocos
+<img width="1365" height="593" alt="Captura de tela 2026-03-30 001207" src="https://github.com/user-attachments/assets/4ca1d015-7004-461c-b694-e19b44060667" />
 
 ---
