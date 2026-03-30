@@ -1,6 +1,6 @@
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
-### Objetivos, funções e mudanças
+### objetivo, funcionamento e modificações realizadas.
 
 O objetivo do app é mostrar uma simples curiosidade por meio do um botão
 
@@ -19,7 +19,7 @@ Em relação ao exemplo, este app possui mais legendas e cores diferentes
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
-### Objetivos, funções e mudanças
+### objetivo, funcionamento e modificações realizadas.
 
 O objetivo é alterar as cores do fundo, sem mudar a imagem de cima, e apagar estas cores de fundo para testar novamente
 
@@ -39,7 +39,7 @@ Em relação ao exemplo este app possui mais opções para voltar para as cores 
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
-### Objetivos, funções e mudanças
+### objetivo, funcionamento e modificações realizadas.
 
 O objetivo desse app é gerar um som, em complemento com a imagem na tela por meio de um botão
 
@@ -79,8 +79,13 @@ Em relação ao exemplo, esse app possui a imagem maior para mostrar a foto
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
 
-### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+### objetivo, funcionamento e modificações realizadas.
+
+O objetivo desse app é fazer com que o usuário possa alterar as telas diversas vezes
+
+Na tela inciial ao clicar no botão "tela 1" ele é direcionado a primeira tela, podendo escolher entre a próxima tela e a anterior, na segunda tela ele pode escolher entre a tela inicial e a tela 1
+
+Em relação ao exemplo as cores de fundo e as imagens foram alteradas
 
 ### Print das telas do Design
 <img width="1365" height="635" alt="app4frente" src="https://github.com/user-attachments/assets/f808f909-e896-47ff-821b-2598fd2a127e" />
