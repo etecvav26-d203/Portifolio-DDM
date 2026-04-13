@@ -1,7 +1,4 @@
 # 📝 Estrutura do Relatório
-
-Utilize o seguinte modelo para organizar o relatório.
-
 ---
 
 ## Instituição
