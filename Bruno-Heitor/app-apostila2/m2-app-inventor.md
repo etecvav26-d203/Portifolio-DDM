@@ -1,3 +1,4 @@
+
  # Projeto 1 – Primeiro Aplicativo (Abrindo Links Web) 
 
 ## objetivo
@@ -14,7 +15,8 @@ Ao clicar nos icônes das redes socias (Instagram, Youtube e Facebook), levará 
 Em relação ao exemplo, este app não utiliza "botão" e sim imagens clicáveis, e com todas elas centralizadas e organizadas uma ao lado da outra, e difereo projeto possui a opção de 
 
 ## Print das telas do Design
-
+<img width="1919" height="874" alt="Captura de tela 2026-06-15 120800" src="https://github.com/user-attachments/assets/ad5bdd6d-9bf0-4f75-a433-647d04ab09d3" />
+<img width="1914" height="818" alt="Captura de tela 2026-06-15 120813" src="https://github.com/user-attachments/assets/7144626d-2153-45bd-9e2a-cb3e536ae82c" />
 
 
 
@@ -35,6 +37,8 @@ Em relação ao exemplo, este app possui cores referentes ao email, e imagens ce
 
 ## Print das telas do Design
 
+
+
 ---
 
 # Projeto 3 – Terceiro Aplicativo (Uso de mapas)
@@ -52,6 +56,10 @@ Ao clicar no botão "Onde fica o Morumbi?" o app permite que o usuário escolha 
 Em relação ao exemplo, este app possui as cores referêntes ao time, e possui diversas imagens do estádio, e ao clicar no botão o aplicativo emite o efeito sonoro de substituição do time
 
 ## Print das telas do Design
+<img width="1894" height="874" alt="Captura de tela 2026-06-15 120920" src="https://github.com/user-attachments/assets/3153e578-9f33-4de0-9858-c0510b84d36b" />
+
+
+
 
 ---
 
