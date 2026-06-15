@@ -36,6 +36,8 @@ Ao clicar no botão "enviar correios" o app permite que o usuário escolha o mei
 Em relação ao exemplo, este app possui cores referentes ao email, e imagens centralizadas e organizadas uma ao lado da outra
 
 ## Print das telas do Design
+<img width="1919" height="878" alt="Captura de tela 2026-06-15 121859" src="https://github.com/user-attachments/assets/f046bc2c-fdbb-4c44-aef7-12c83fe59d8c" />
+<img width="1919" height="884" alt="Captura de tela 2026-06-15 120932" src="https://github.com/user-attachments/assets/dcc7b43a-ebd5-4209-a178-02f2cbcbb5d9" />
 
 
 
@@ -57,7 +59,7 @@ Em relação ao exemplo, este app possui as cores referêntes ao time, e possui 
 
 ## Print das telas do Design
 <img width="1894" height="874" alt="Captura de tela 2026-06-15 120920" src="https://github.com/user-attachments/assets/3153e578-9f33-4de0-9858-c0510b84d36b" />
-
+<img width="1919" height="884" alt="Captura de tela 2026-06-15 120932" src="https://github.com/user-attachments/assets/387237ef-19d2-4b63-b886-2b541ed54ce9" />
 
 
 
