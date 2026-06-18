@@ -72,10 +72,14 @@ O objetivo do app é permitir que o usuário realize ligações e escolha um con
 
 ## funcionamento
 
-Ao clicar no botão 
+Ao clicar no botão "realizar Chamada" o usuário pode escolher o contato de sua escolha
 
 ## modificações realizadas
  
 Em relação ao exemplo, este app possui mais legendas e cores diferentes
 
 ## Print das telas do Design
+<img width="1919" height="890" alt="Captura de tela 2026-06-18 110916" src="https://github.com/user-attachments/assets/d8679565-2985-4477-8dbd-58eeb3b71307" />
+<img width="1919" height="892" alt="Captura de tela 2026-06-18 110931" src="https://github.com/user-attachments/assets/7c992861-98ac-42ad-97e0-c2808adaa0e3" />
+
+
