@@ -51,69 +51,45 @@ Em relação ao exemplo pedido na atividade proposta, nós realizamos diversas a
 
 ---
 
-## Print do Design
+## Print do Design Screen1
+<img width="1044" height="714" alt="Captura de tela 2026-08-10 114702" src="https://github.com/user-attachments/assets/3a32159b-f19b-4707-83ba-5134f4f3c0e7" />
 
-![Design do Brick Breaker](imagens/int1.png)
+## Print dos Blocos Screen1
+<img width="995" height="402" alt="Captura de tela 2026-08-10 105452" src="https://github.com/user-attachments/assets/de7cb103-865c-46de-ad63-0d6ba29c87a4" />
 
-## Print dos Blocos
+## Print do Design Screen3
+<img width="711" height="628" alt="Captura de tela 2026-08-10 114723" src="https://github.com/user-attachments/assets/5766631f-3e19-4231-b3ee-3cdb6cce343b" />
 
-![Blocos do Brick Breaker](imagens/blocos1.png)
+## Print dos Blocos Screen3
+<img width="1207" height="690" alt="Captura de tela 2026-08-10 122521" src="https://github.com/user-attachments/assets/5da86c2a-e20a-4a1a-8113-c0b303f46b1d" />
+<img width="1116" height="791" alt="Captura de tela 2026-08-10 122529" src="https://github.com/user-attachments/assets/4abcd6fc-80f3-4b21-b11f-166028f1d26e" />
+<img width="1272" height="603" alt="Captura de tela 2026-08-10 122543" src="https://github.com/user-attachments/assets/03585589-5ee0-437d-848d-428c68d1d803" />
+<img width="1147" height="683" alt="Captura de tela 2026-08-10 122536" src="https://github.com/user-attachments/assets/7bb54fc1-b098-45d0-9260-de792fe6cade" />
 
----
 
-# Projeto 2 – MagicBall com Acelerômetro
 
-## Objetivo do jogo
 
-Neste jogo, o jogador utiliza o acelerômetro do celular para movimentar uma bola inclinando o aparelho. O objetivo é conduzir a bola até o buraco para completar a fase.
+## Print do Design Screen4
+<img width="782" height="617" alt="Captura de tela 2026-08-10 114733" src="https://github.com/user-attachments/assets/8dd68592-cdf4-4a92-9973-00133675bd20" />
 
-## Modificações realizadas
+## Print dos Blocos Screen4
+<img width="1392" height="574" alt="Captura de tela 2026-08-10 122258" src="https://github.com/user-attachments/assets/e0a2d5d6-d98d-4546-84fc-fa24b62c5910" />
 
-Foram implementadas melhorias na mecânica do jogo para aumentar gradativamente sua dificuldade. Com o passar do tempo:
+<img width="1503" height="746" alt="Captura de tela 2026-08-10 122308" src="https://github.com/user-attachments/assets/295e34e0-fb2a-4b35-96dd-6254ee5f3f03" />
 
-- A velocidade de movimentação do buraco aumenta;
-- O tamanho do buraco diminui, exigindo maior precisão do jogador para concluir a fase.
 
-Essas alterações tornam a experiência mais dinâmica e desafiadora.
+## Print do Design Screen5
+<img width="575" height="615" alt="Captura de tela 2026-08-10 114740" src="https://github.com/user-attachments/assets/44dfa753-42b2-4782-8fe8-23a8f08f6e56" />
 
----
+## Print dos Blocos Screen5
+<img width="719" height="232" alt="Captura de tela 2026-08-10 114746" src="https://github.com/user-attachments/assets/19b03252-f9d5-4dc0-bb64-8c10eb404d09" />
 
-## Print do Design
-
-![Design do MagicBall](imagens/int2.png)
-
-## Print dos Blocos
-
-![Blocos do MagicBall](imagens/blocos2.png)
-
----
-
-# Projeto 3 – Sinuca com Gravidade Simulada
-
-## Objetivo do jogo
-
-O jogo simula uma mesa de sinuca em que o jogador utiliza a inclinação do celular para movimentar as bolas através da gravidade simulada. O objetivo é encaçapar todas as bolas.
-
-## Modificações realizadas
-
-Foi realizada a personalização da interface do jogo, tornando-a mais intuitiva e melhorando a organização dos elementos visuais para proporcionar uma experiência mais agradável ao usuário.
-
----
-
-## Print do Design
-
-![Design da Sinuca](imagens/int3.png)
-
-## Print dos Blocos
-
-![Blocos da Sinuca](imagens/blocos3.png)
 
 ---
 
 # Considerações Finais
 
-O desenvolvimento dos três jogos permitiu aplicar na prática os conceitos estudados na disciplina de Desenvolvimento para Dispositivos Móveis (DDM), utilizando programação por blocos no MIT App Inventor. As modificações realizadas contribuíram para melhorar a experiência do usuário, tanto por meio de interfaces mais organizadas quanto pela implementação de mecânicas que tornam os jogos mais desafiadores e interessantes.
-
+o Desenvolvimento dessa Agenda explora os conceitos do "TinyDB" "GetValue" e diversas globais
 ---
 
 *Relatório desenvolvido para fins educacionais na disciplina de Desenvolvimento para Dispositivos Móveis (DDM), utilizando o MIT App Inventor.*
