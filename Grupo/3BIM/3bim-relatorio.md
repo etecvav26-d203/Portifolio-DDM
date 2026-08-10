@@ -27,28 +27,27 @@
 
 ## Autores
 
-* `Alex Apolinario dos Santos`
-* `Ana Carolina Bernal Santos`
+* `Bruno Bandeira Marques'
+* 'Heitor de Lima Dias'
+* 'Daniel Ferreira'
+* `Enzo Silva Trindade
 
 ---
 
-# Relatório – Desenvolvimento de Jogos no MIT App Inventor
+# Relatório – Desenvolvimento da Agenda no MIT App Inventor
 
 ## Objetivo
 
-O objetivo deste trabalho foi desenvolver e personalizar três jogos utilizando o MIT App Inventor, aplicando conceitos de programação por blocos, lógica de jogos, desenvolvimento de interfaces gráficas e utilização de componentes do dispositivo móvel.
+O objetivo desse apk é trabalhar como uma agenda funcional, onde o usuário pode criar compromissos em diferentes dias e horários, o usuário pode visualizar as suas tarefas, editá~las e excluir os compromissos que não deseja mais.
 
 ---
 
-# Projeto 1 – Brick Breaker / Pong
-
-## Objetivo do jogo
-
-O jogo consiste em controlar uma barra para impedir que a bola saia da tela, rebatendo-a continuamente. O objetivo é manter a bola em movimento pelo maior tempo possível.
+## Como Funciona
+O aplicativo funciona de uma maneira simples e objetiva para o fácil entendimento do usuário, com uma página objetiva com três opções: "sair", "como usar" e "Começar a Agendar" onde cada um leva para a página que o usuário deseja ir para saber e fazer o que deseja. Na segunda página é onde o usuário escolhe a data e hora do compromisso e nomeia o evento para a criação do mesmo, não é possível criar um compromisso sem a data, o horário e o nome, e também não é possível escolher um dia que já aconteceu, o aplicativo não deixa. Nessa segunda página, além de poder escolher o usuário pode escolher entre os botões "voltar", onde é direcionado para a página 1 de volta, e o botão "Ver Agenda" onde o usuário é levado para outra página onde pode visualizar seus compromissos feitos. Na terceira tela ele além de observar seus compromissos, ele tem a opção de excluir e editar seus eventos criados no botão "excluir tarefa" e " editar tarefa", o usuário também pode voltar para a página 2.
 
 ## Modificações realizadas
 
-Foi realizada a personalização da interface do jogo, tornando-a mais organizada, agradável visualmente e facilitando a interação do usuário durante a partida.
+Em relação ao exemplo pedido na atividade proposta, nós realizamos diversas alterações como a adição de botões como "como usar" e "sair" onde a agenda direciona o usuário para outras páginas, uma saindo da aplicação e a outra leva o usuário a uma página explicando como usar cada botão e onde fica cada parte necessária para criar um compromisso na nossa Agenda. A aplicação também possui cores temáticos e atrativas para o usuário.
 
 ---
 
