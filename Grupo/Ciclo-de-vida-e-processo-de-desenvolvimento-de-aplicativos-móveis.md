@@ -37,7 +37,7 @@ Vocês concordam com essa decisão?
 Discutam quais **testes deveriam ser realizados antes de considerar o aplicativo pronto**. Pensem também em situações inesperadas, como dados incorretos, campos vazios e diferentes formas de utilização pelo usuário.
 
 ### Resposta:
-Não concordamos. O fato de o aplicativo ter funcionado uma vez não significa que ele esteja totalmente pronto.
+**Não concordamos.** O fato de o aplicativo ter funcionado uma vez não significa que ele esteja totalmente pronto.
 
 É preciso testar várias situações, como deixar algum campo vazio, colocar informações erradas, cadastrar várias atividades, fechar e abrir o aplicativo novamente e verificar se os dados continuam salvos. Também é importante verificar se todos os botões funcionam e se a navegação entre as telas está correta.
 
@@ -58,6 +58,12 @@ Um integrante afirmou:
 Expliquem a decisão e discutam se um problema na interface ou na experiência do usuário pode justificar mudanças em um aplicativo que tecnicamente está funcionando.
 
 ### Resposta:
+
+**Discordamos da afirmação.** Um aplicativo funcionar tecnicamente não significa que ele seja fácil ou agradável de utilizar.
+
+Se os usuários não conseguem entender a interface, o grupo deve realizar mudanças nos elementos das telas, na organização das informações ou na navegação. A interface deve ser organizada, legível e fácil de utilizar.
+
+Portanto, problemas encontrados durante os testes podem fazer o grupo voltar ao planejamento ou ao desenvolvimento, corrigir o aplicativo e realizar novos testes.
 
 ---
 
