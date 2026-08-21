@@ -1,13 +1,14 @@
-# 🗒️ Relatório Aplicativos App Inventor
+# 🗒️ Relatório Aplicativos App Inventor  
+
 
 **Instituição:**   
-Etec Antônio Vasco Venchiarutti
+> Etec Antônio Vasco Venchiarutti
 
 **Curso:**  
-Informática para Internet  
+> Informática para Internet  
 
 **Turma:**  
-2D  
+> 2D  
 
 **Alunos**  
 
@@ -30,13 +31,13 @@ _______________
 
 
 ## Objetivo 
-Produzir um jogo cujo o objetivo é eliminar todos os paralelepípedos acima da tela, usando uma bola que sobe e depois volta a uma plataforma o mesmo formato dos paralelepípedos.
+O Objetivo da aplicação criada, é ser um *minigame* que consiste em acabar com os obstáculos localizados na parte superior da Tela, a bola atinge a peça, a bola rebate e volta para poder ser atingida pelo usuário novente, o objetivo é fazer o máximo de pontuação possível.
 
 ## Desenvolvimento do Aplicativo
-Seguimos as instruções que estão no GitHub da maneira mais leal possível, como consta no material.
+Seguimos o exemplo apresentado pelo professor localizado no Github, o aplicativo foi desenvolvido com o intúito de ser o mais parecido com o estilo dos jogos pixelados da época.
 
 ## Melhorias Realizadas
-Utilizamos as imagens e mecânicas que melhor funcionavam de acordo com o objetivo.
+O minigame agora, possui três páginas, a primeira de introdução onde o usuário escolhe o nivél de dificuldade que deseja jogar, o nivél médio é um idêntico ao exemplo mostrado, sua diferença para o nível difícil consiste que neste segundo nível, a barra é menor para dificultar o acerto da bola, a bola também é menor e mais rápida, e agora se você não atingir a bola a tempo você perde.
 
 # JOGO 2: Acelerometro
 
@@ -48,13 +49,13 @@ Utilizamos as imagens e mecânicas que melhor funcionavam de acordo com o objeti
 
 
 ### Objetivo 
-Produzir um jogo cujo o objetivo é pilotar um carro de F1 com o movimento do celular.
+O objetivo dessa aplicação é de certa forma, pilotar e controlar um carro de Formula1 de acordo com a inclinação do celular, o usuário controla o carro para onde o celular aponta.
 
 ### Desenvolvimento do Aplicativo
-Seguimos as instruções que estão no GitHub da maneira mais leal possível, como consta no material.
+O desenvolvimento deste aplicativo foi espelhado no exemplo apresentado no Github, com o foco de aprendizagem nos comandos de sensores, o dos vetores X,Y,Z.
 
 ## Melhorias Realizadas
-Utilizamos as imagens e mecânicas que melhor funcionavam de acordo com o objetivo.
+O jogo agora possui, um omodelo de carro diferente do apresentado, e também com números maiores para a melhor vizualização do usuário, diferentemente do exemplo mostrado.
 
 # JOGO 3: Jogo Bilharzinho
 
@@ -64,10 +65,10 @@ Utilizamos as imagens e mecânicas que melhor funcionavam de acordo com o objeti
 <img width="1171" height="499" alt="Captura de tela 2026-08-20 180229" src="https://github.com/user-attachments/assets/1f5e4e5f-69c1-4dfa-a4fd-d5ac893f567c" />
 
 ## Objetivo 
-Produzir um jogo cujo o objetivo é jogar sinuca no celular.
+O objetivo do *minijogo* é ser um simples simulador do famoso jogo de bilhar, onde o usuário precisa acertar a caçapada definida pelo nosso jogo, e se acertada ele ganha.
 
 ### Desenvolvimento do Aplicativo
-Seguimos as instruções que estão no GitHub da maneira mais leal possível, como consta no material.
+O desenvolvimento do jogo, foi paralelo ao exemplo apresentado no Github, com o foco em comandos de sensores de força, e para a criação de uma gravidade "artificial" onde a bola rebate nos cantos da tela.
 
 ## Melhorias Realizadas
-Mudamos as bolas pretas para brancas, para brancas, deixando a visão mais limpa.
+Em relação ao exemplo apresentado, onde a bola apenas rebate nas paredes  do celular sem parar nós adicionamos mais uma mecânica onde o usuário precisa acertar uma caçapa, igual acontece na sinuca, agora um minijogo mais competitivo, o usuário pode criar tabelas na mesa para deixar o jogo mais divertido.
