@@ -7,29 +7,28 @@
 > Dispositivos Móveis
 
 **Alunos**
-- Bruno Bandeira Marques
+- Enzo Silva Trindade
 
-- Heitor de Lima Dias
+- Daniel Santana
 
 
 __________
 
-# 📚 Quiz de Ética e Cidadania
-
+# 📚 Quiz de Matemática
 
 ## Sobre o Projeto
 
-O **Quiz de Ética e Cidadania** é um aplicativo educativo desenvolvido no **MIT App Inventor**, com o objetivo de testar e ampliar os conhecimentos dos usuários sobre ética, cidadania, direitos do consumidor e responsabilidade social.
+O **Quiz de Matemática** é um aplicativo educativo desenvolvido no **MIT App Inventor**, com o objetivo de testar e ampliar os conhecimentos dos usuários sobre matemática como modo amplo.
 
 O aplicativo apresenta questões de múltipla escolha, permitindo que o usuário coloque seus conhecimentos em prática de maneira simples e interativa.
 
 ## Objetivo
 
-O principal objetivo do projeto é incentivar o aprendizado sobre temas importantes para a convivência em sociedade e para a formação de cidadãos conscientes.
+O principal objetivo do projeto é incentivar o aprendizado sobre temas importantes para a evolução na matemática.
 
 ## Como Funciona
 
-O aplicativo possui um banco com **30 questões cadastradas**, abordando diferentes assuntos relacionados à ética e à cidadania. Ao iniciar uma prova, o sistema seleciona aleatoriamente **10 questões**, evitando repetições durante a mesma tentativa.
+O aplicativo possui um banco com **30 questões cadastradas**, abordando diferentes assuntos relacionados à matemática. Ao iniciar uma prova, o sistema seleciona aleatoriamente **10 questões**, evitando repetições durante a mesma tentativa.
 Cada questão apresenta quatro alternativas:
 
 - **A)** Primeira alternativa.
@@ -78,16 +77,5 @@ Nessa tela é encontrado o material de apoio, matéria referente ao conteudo de 
 - **Listas:** organização das questões e alternativas.
 
 
-
-## 📚 Material de Apoio
-
-O aplicativo também conta com materiais educativos desenvolvidos para auxiliar os usuários nos estudos.
-
-Esses materiais apresentam explicações sobre:
-
-- Ética e impessoalidade.
-- Direitos do consumidor.
-- Inclusão e acessibilidade.
-- Consumo consciente.
 
 
