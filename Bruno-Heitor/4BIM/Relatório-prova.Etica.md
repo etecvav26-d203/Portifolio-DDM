@@ -1,18 +1,21 @@
 
 # Relatório Aplicativo Prova
 
+
 **Curso**
 > Informática para a internet
 > Dispositivos Móveis
 
 **Alunos**
 - Bruno Bandeira Marques
+
 - Heitor de Lima Dias
 
 
+__________
+
 # 📚 Quiz de Ética e Cidadania
 
-_____________
 
 ## Sobre o Projeto
 
@@ -42,7 +45,7 @@ O usuário também pode iniciar uma nova prova, recebendo outra seleção aleat�
 ## Screen 1
 Essa é a primeira tela que o usuário tem contato ao abrir o App, possuindo a opção de começar Prova (Screen2), Ver as regras do jogo e como funcionam as perguntas(Screen3) e ver o material de apoio estudos (Screen4)
 
-foto 
+foto.
 foto
 
 ## Screen 2
