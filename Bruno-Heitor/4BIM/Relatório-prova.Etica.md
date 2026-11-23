@@ -45,28 +45,31 @@ O usuário também pode iniciar uma nova prova, recebendo outra seleção aleat�
 ## Screen 1
 Essa é a primeira tela que o usuário tem contato ao abrir o App, possuindo a opção de começar Prova (Screen2), Ver as regras do jogo e como funcionam as perguntas(Screen3) e ver o material de apoio estudos (Screen4)
 
-foto.
-foto
+<img width="877" height="385" alt="image" src="https://github.com/user-attachments/assets/c0fdaddd-3250-4007-8571-39d8036644a7" />
+<img width="732" height="596" alt="image" src="https://github.com/user-attachments/assets/c8d2d0ac-fe78-49ba-9081-eb1b57c43b37" />
 
 ## Screen 2
 Nessa tela, é onde estão as 10 perguntas referente a matéria de Ética, o usuário se depara com o enunciado e o n° da questão, junto com 4 alternativas para a resposta, o jogador precisa clicar na alternativa certa para responder e prosseguir, caso a resposta esteja certa o botão mudará de cor para verde, e se errar ficará vermelho.
 
-foto
-foto
-foto
-foto
+<img width="367" height="622" alt="image" src="https://github.com/user-attachments/assets/f0271045-80cc-4998-9cc1-97eed4ef6afd" />
+<img width="1609" height="830" alt="image" src="https://github.com/user-attachments/assets/401907fb-0a0a-4eda-b927-43803e97de79" />
+<img width="586" height="780" alt="image" src="https://github.com/user-attachments/assets/3e600fdd-7021-422a-9762-de2133688979" />
+
+
 
 ## Screen 3
 O usuário será direcionado para está página quando acessar o botão sobre as regras do jogo, nessa página explica sobre o funcionamento da prova, e como responder e enteder a estrutura da aplicação 
 
-foto
-foto
+<img width="437" height="614" alt="image" src="https://github.com/user-attachments/assets/c2d48058-bc12-4e6d-972d-adf12e769f99" />
+<img width="477" height="203" alt="image" src="https://github.com/user-attachments/assets/9b133d55-88f1-4087-bede-18626c700879" />
+
 
 ## Screen 4
 Nessa tela é encontrado o material de apoio, matéria referente ao conteudo de Ética abordado na prova, página dedicada ao estudos e para o aprendizado do aluno, para assim a capacitação para responder a prova.
 
-foto
-foto
+<img width="508" height="144" alt="image" src="https://github.com/user-attachments/assets/13f10907-eb63-4202-accf-e1818a250a3b" />
+<img width="774" height="302" alt="image" src="https://github.com/user-attachments/assets/af5ff62f-8923-4483-86c6-447a6bb27731" />
+
 
 ### Tecnologias Utilizadas
 
